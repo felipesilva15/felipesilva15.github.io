@@ -1,5 +1,5 @@
 # Felipe Silva
-Olá, me chamo Felipe Silva e este é a minha web page com alguns de meus projetos.
+Olá, me chamo Felipe Silva e este é a minha web page com alguns de meus projetos.;
 Atualmente sou um Dev. Jr, no qual utilizo as linguagens PHP, Angular e FoxPro.
 
 ## 🛠️ Projetos
