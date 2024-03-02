@@ -45,15 +45,16 @@ _Set 2020 - Presente_\
 Desenvolvedor fullstack
 
 ## 👨‍💻 Projetos
-- Bravo 4 Fun (PHP) - [Projeto](http://195.35.40.172:9000) | [Repositório GitHub](https://github.com/felipesilva15/bravo4Fun)
+- Bravo 4 Fun (PHP) - [Projeto](https://bravo4fun.felipesilva15.com.br) | [Repositório GitHub](https://github.com/felipesilva15/bravo4Fun)
 - Pokédex (Angular) - [Projeto](https://felipesilva15.github.io/pokedex-angular/) | [Repositório GitHub](https://github.com/felipesilva15/pokedex-angular)
 - To do list (Angular) - [Projeto](https://felipesilva15.github.io/to-do-list-angular/) | [Repositório GitHub](https://github.com/felipesilva15/to-do-list-angular)
 - Lindy Doces (HTML/CSS) - [Projeto](https://lindy-doces.vercel.app/) | [Repositório GitHub](https://github.com/felipesilva15/LindyDoces)
 - Canses contabilidade (HTML/CSS) - [Projeto](https://canses.vercel.app/) | [Repositório GitHub](https://github.com/felipesilva15/CansesContabilidade)
-- API de filmes (Laravel) - [Repositório GitHub](https://github.com/felipesilva15/FilmsApiLaravel)
+- API de filmes (Laravel) - [Projeto](https://films-api-laravel.felipesilva15.com.br/api/documentation) | [Repositório GitHub](https://github.com/felipesilva15/FilmsApiLaravel)
 - Ferramenta de Kanban (Angular) - [Projeto](https://felipesilva15.github.io/KanbanToolAngular/) | [Repositório GitHub](https://github.com/felipesilva15/KanbanToolAngular)
-- Foxtrot Toy Store (Laravel) - [Projeto](http://195.35.40.172:9001) | [Repositório GitHub](https://github.com/felipesilva15/FoxtrotToyStore)
+- Foxtrot Toy Store (Laravel) - [Projeto](https://foxtrot-toystore.felipesilva15.com.br) | [Repositório GitHub](https://github.com/felipesilva15/FoxtrotToyStore)
 - API de microsserviços de livros (Spring) - [Repositório GitHub](https://github.com/felipesilva15/java-microservices)
 - Tema Dark and Light (Angular) - [Projeto](https://felipesilva15.github.io/dark-theme-angular/) | [Repositório GitHub](https://github.com/felipesilva15/dark-theme-angular)
 - Formulário de autenticação (Angular) - [Projeto](https://felipesilva15.github.io/auth-form-angular/) | [Repositório GitHub](https://github.com/felipesilva15/auth-form-angular)
-- API de localização (Spring) - [Repositório GitHub](https://github.com/felipesilva15/locationApi) 
+- API de localização (Spring) - [Repositório GitHub](https://github.com/felipesilva15/locationApi)
+- API de jogos - E-commerce (Laravel) - [Projeto](https://alpha-games-api.felipesilva15.com.br/api/documentation) | [Repositório GitHub](https://github.com/felipesilva15/FilmsApiLaravel)
