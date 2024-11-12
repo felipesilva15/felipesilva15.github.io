@@ -1,11 +1,11 @@
 # Felipe Silva
-Olá👋, me chamo Felipe Silva! Tenho 20 anos, sou desenvolvedor Jr. e esta é a minha web page onde falo um pouco de mim e demonstro alguns dos projetos que desenvolvi.
+Olá👋, me chamo Felipe Silva! Tenho 21 anos, sou desenvolvedor e esta é a minha web page onde falo um pouco de mim e demonstro alguns dos projetos que desenvolvi.
 
 ## 💫 Sobre mim
-&nbsp;&nbsp;Sou um desenvolvedor Full-stack Júnior com 4 anos de experiência em programação e 3 anos de experiência profissional.\
+&nbsp;&nbsp;Sou um desenvolvedor Full-stack com 5 anos de experiência em programação e 4 anos de experiência profissional.\
 &nbsp;&nbsp;Começei no ramo em 2019, com 15 anos de idade através do curso de técnico em informática cursado na Instituição Nossa Senhora de Fátima (INSF), inicialmente com a linguagem de programação C# e banco de dados MySQL.\
 &nbsp;&nbsp;Em 2020 iniciei uma carreira profissional como estagiário desenvolvendo aplicações em FoxPro9 e Microsoft SQL Server, onde até o momento, pude participar de diversos projetos no sistemas ERP e Web Volpe, atuando em ambiente ágil com SCRUM e Kanban realizando desenvolvimentos com as tecnologias Laravel (PHP), Angular (TypeScript) e Node.js (JavaScript/TypeScript).\
-&nbsp;&nbsp;Além dessas experiências, pude me aprofundar em outras tecnologias através de cursos, como por exemplo, Spring Boot (Java), Docker e AWS.
+&nbsp;&nbsp;Além dessas experiências, pude me aprofundar em outras tecnologias através de cursos, como por exemplo, Spring Boot (Java), Docker e computação em nuvem (AWS, GCP etc).
 
 ## ⚙ Skills
 
@@ -38,6 +38,7 @@ Olá👋, me chamo Felipe Silva! Tenho 20 anos, sou desenvolvedor Jr. e esta é 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## 💼 Experiência profissional
 **PWI Sistemas**\
@@ -58,3 +59,6 @@ Desenvolvedor fullstack
 - Formulário de autenticação (Angular) - [Projeto](https://felipesilva15.github.io/auth-form-angular/) | [Repositório GitHub](https://github.com/felipesilva15/auth-form-angular)
 - API de localização (Spring) - [Repositório GitHub](https://github.com/felipesilva15/locationApi)
 - API de jogos - E-commerce (Laravel) - [Projeto](https://alpha-games-api.felipesilva15.com.br/api/documentation) | [Repositório GitHub](https://github.com/felipesilva15/FilmsApiLaravel)
+- Fit Motive - Gerenciador para personal trainner (Angular) - [Projeto](https://fitmotive.felipesilva15.com.br) | [Repositório GitHub](https://github.com/felipesilva15/fitmotive-app)
+- Fit Motive API (Laravel) - [Projeto](https://fitmotive-api.felipesilva15.com.br/api/documentation) | [Repositório GitHub](https://github.com/felipesilva15/fitmotive-api)
+- API de funcionários (Laravel) - [Projeto](https://employee-api.felipesilva15.com.br/api/documentation) | [Repositório GitHub](https://github.com/felipesilva15/employees-api)
